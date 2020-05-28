@@ -11,6 +11,7 @@ width:100%;
   padding: 0px;
   margin: 0px;
   background-image: url(logo1.png);
+  background-repeat:repeat-x;
 }
 #b2{
 width:100%;}
