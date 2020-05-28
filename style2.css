@@ -10,6 +10,7 @@ div{
 width:100%;
   padding: 0px;
   margin: 0px;
+  background-image: url(logo1.png);
 }
 #b2{background-color:#900;
 width:100%;}
